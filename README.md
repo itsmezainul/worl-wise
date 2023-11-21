@@ -1,5 +1,6 @@
-# Start JSON Server
-### npm run server
+# npm run server
+Runs the json-server in the Browser.\
+Open [http://localhost:9000/cities](http://localhost:9000/cities) to view it in your browser.
 
 
 # React + Vite
