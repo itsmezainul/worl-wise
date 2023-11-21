@@ -1,5 +1,5 @@
 # npm run server
-Runs the json-server in the Browser.\
+Runs the json-server before npm run dev
 Open [http://localhost:9000/cities](http://localhost:9000/cities) to view it in your browser.
 
 
